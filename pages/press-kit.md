@@ -39,7 +39,7 @@ Note: the DTCG is not a W3C Working Group. The technical reports published by th
 
 
 ## Chairs
-- [Jina Anne](https://twitter.com/jina)
+- [Jina Anne](https://twitter.com/jina), Product Design Manager, Design Systems @ Asana / Founder @ [Clarity](https://www.clarityconf.com/)
 - [Kaelig Deloumeau-Prigent](https://twitter.com/kaelig)
 - [Val Head](https://twitter.com/vlh)
 
@@ -57,7 +57,7 @@ Note: the DTCG is not a W3C Working Group. The technical reports published by th
 - [Kathleen McMahon](https://twitter.com/resource11), Senior Design Engineer @ LaunchDarkly 
 - [Kevin Powell](https://twitter.com/kevinmpowell), Principal Front-End Developer @ EightShapes
 - [Louis Chenais](https://twitter.com/chuckn0risk), Co-Founder & Chief-Evangelist @ Specify
-- Matt Felten, Senior Design Manager @ ServiceTitan
+- [Matt Felten](https://twitter.com/mattfelten), Senior Manager, Design Systems @ ServiceTitan
 - Matthew Strom, Director of Design @ Simple Health
 - [Nathan Curtis](https://eightshapes.com/nathan-curtis/), Consultant
 - Tim Van Damme
