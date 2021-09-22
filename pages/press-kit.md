@@ -50,11 +50,11 @@ Note: the DTCG is not a W3C Working Group. The technical reports published by th
 - Ayesha Mazumdar, Design Technologist @ Pinterest 
 - Caleb Williams
 - Danny Banks, Principal Design Technologist
-- Donna Vitan, Design Lead, Design Systems @ TELUS Digital
+- [Donna Vitan](https://twitter.com/donnavitan), Design Lead, Design Systems @ TELUS Digital
 - Garth Braithwaite, Design System Engineer @ Adobe
 - [James Nash](https://cirrus.twiddles.com/), Design Systems Aficionado
 - Johan Stromqvist, Motion Design Specialist @ Shopify Polaris
-- Kathleen McMahon, Senior Design Engineer @ LaunchDarkly 
+- [Kathleen McMahon](https://twitter.com/resource11), Senior Design Engineer @ LaunchDarkly 
 - [Kevin Powell](https://twitter.com/kevinmpowell), Principal Front-End Developer @ EightShapes
 - [Louis Chenais](https://twitter.com/chuckn0risk), Co-Founder & Chief-Evangelist @ Specify
 - Matt Felten, Senior Design Manager @ ServiceTitan
