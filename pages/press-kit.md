@@ -61,4 +61,3 @@ Note: the DTCG is not a W3C Working Group. The technical reports published by th
 - Matthew Strom, Director of Design @ Simple Health
 - [Nathan Curtis](https://eightshapes.com/nathan-curtis/), Consultant
 - Tim Van Damme
-- Zack Brown, Co-founder @ Haiku, Co-creator @ Diez
