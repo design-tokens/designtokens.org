@@ -15,6 +15,9 @@ Guidelines and assets to help the public talk about the Design Tokens W3C Commun
 ## About the Design Tokens W3C Community Group
 The Design Tokens W3C Community Group means to develop standards in the way stylistic values of a design system are stored in a design token, which creators, products, and designs tools can reliably create and share.
 
+In long-form content, you may use this language:
+The Design Tokens W3C Community Group is a community initiative to develop standards for design tokens as a way to capture the stylistic values of a design system to scale. Design token standards enable creators, products, and design tools to develop and maintain design tokens on a stable foundation of shared understanding. Standards ensure that all parties using design tokens will have an expected, quality experience for scaling design.
+
 
 Refer to this group as:
 - Design Tokens W3C Community Group
