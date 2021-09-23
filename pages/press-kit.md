@@ -8,8 +8,6 @@ eleventyNavigation:
   order: 4
 ---
 
-# Press Kit
-
 Guidelines and assets to help the public talk about the Design Tokens W3C Community Group. The press kit allows anyone such as speakers, bloggers, YouTubers, and newsletter authors to share our work.
 
 ## About the Design Tokens W3C Community Group
