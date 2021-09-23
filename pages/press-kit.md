@@ -12,7 +12,6 @@ eleventyNavigation:
 
 Guidelines and assets to help the public talk about the Design Tokens W3C Community Group. The press kit allows anyone such as speakers, bloggers, YouTubers, and newsletter authors to share our work.
 
-
 ## About the Design Tokens W3C Community Group
 
 The Design Tokens Community Group's goal is to provide standards upon which products and design tools can rely for sharing stylistic pieces of a design system at scale.
@@ -28,14 +27,11 @@ Refer to this group as:
 
 Note: the DTCG is not a W3C Working Group. The technical reports published by the DTCG are not W3C Standards nor are they on the W3C Standards Track.
 
-
 ## Logo
 
-- SVG (link here)
-- PNG (link here)
-- The DTCG's logo was created by Tim Van Damme
+- [Download PNG](https://www.designtokens.org/_includes/assets/images/logo.png)
+- The DTCG’s logo was created by Tim Van Damme
 - Please do not distort or change the logo in any way to preserve the integrity and recognition of the logo
-
 
 ## Links
 
@@ -45,13 +41,11 @@ Note: the DTCG is not a W3C Working Group. The technical reports published by th
 - [twitter.com/DesignTokens](https://twitter.com/DesignTokens): Official Twitter account for social media communications
 - [Design Tokens W3C Community Group Glossary](https://www.designtokens.org/glossary/): High-level definitions to provide a common language during discussions
 
-
 ## Chairs
 
 - [Jina Anne](https://twitter.com/jina), Product Design Manager, Design Systems @ Asana / Founder @ [Clarity](https://www.clarityconf.com/)
 - [Kaelig Deloumeau-Prigent](https://twitter.com/kaelig), development acceleration @ Shopify
 - [Val Head](https://twitter.com/vlh), Senior Design Advocate, Adobe
-
 
 ## Contributors
 
