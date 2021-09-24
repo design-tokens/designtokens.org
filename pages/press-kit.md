@@ -34,7 +34,7 @@ Note: the DTCG is not a W3C Working Group. The technical reports published by th
 ## Links
 
 - [DesignTokens.org](https://designtokens.org/): Official home of the Design Tokens W3C Community Group where you can learn more about the group, the principles we value, glossary, blog, and links to other resources
-- [GitHub design-tokens/community-group](https://github.com/design-tokens/community-group): Official Github DTCG repository for the design tokens specifications
+- [GitHub design-tokens/community-group](https://github.com/design-tokens/community-group): Official GitHub DTCG repository for the design tokens specifications
 - [w3.org/community/design-tokens](https://www.w3.org/community/design-tokens/): Official W3C home of the DTCG for announcements, reports, and contributors
 - [twitter.com/DesignTokens](https://twitter.com/DesignTokens): Official Twitter account for social media communications
 - [Design Tokens W3C Community Group Glossary](https://www.designtokens.org/glossary/): High-level definitions to provide a common language during discussions
