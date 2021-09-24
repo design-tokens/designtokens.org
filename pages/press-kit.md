@@ -42,7 +42,7 @@ Note: the DTCG is not a W3C Working Group. The technical reports published by th
 ## Chairs
 
 - [Jina Anne](https://twitter.com/jina), Product Design Manager, Design Systems @ Asana / Founder @ [Clarity](https://www.clarityconf.com/)
-- [Kaelig Deloumeau-Prigent](https://twitter.com/kaelig), development acceleration @ Shopify
+- [Kaelig Deloumeau-Prigent](https://twitter.com/kaelig), Development Acceleration @ Shopify
 - [Val Head](https://twitter.com/vlh), Senior Design Advocate, Adobe
 
 ## Contributors
